@@ -2,8 +2,8 @@
 
 
 ### bubble sort
-![alt text](bubble.png)
 https://github.com/hddkkll/Algorithm/blob/master/src/sort/Bubble.java
+![alt text](bubble.png)
 ```java
 package arry;
 
