@@ -1,6 +1,6 @@
 package arry;
 
-public class arr {
+public class star {
 	public static void main(String[] args) {
 
 	}
