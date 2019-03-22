@@ -23,6 +23,7 @@ https://github.com/hddkkll/Algorithm/blob/master/src/sort/insert.java
 
 ```
 ### Binary search
+https://github.com/hddkkll/Algorithm/blob/master/src/arry/Binary_search.java
 ![alt text](binary.png)
 ```java
 
