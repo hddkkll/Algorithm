@@ -29,3 +29,9 @@ https://github.com/hddkkll/Algorithm/blob/master/src/arry/Binary_search.java
 
 
 ```
+### 배열을 원하는만큼 자르고 k번째 값 찾기
+https://github.com/hddkkll/Algorithm/blob/master/src/arry/seek_k_number.java
+```java
+
+
+```
